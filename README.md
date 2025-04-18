@@ -47,11 +47,11 @@
 视频列表 2 :https://www.bilibili.com/video/BV1sZ4y1q7WL/  
 不方便看视频的可以扫一下来自中科大的 PPT ：https://staff.ustc.edu.cn/~huangwc/crypto/4c.pdf 
 
-周四交流答疑：https://meeting.tencent.com/crm/2Mkr1a1Z49（日期：2025-04-10）
+周四交流答疑：https://meeting.tencent.com/crm/2Mkr1a1Z49 （日期：2025-04-10）
 
 ### 第二周 群的深入概念、以及一些有意思的群的例子  
 
-周一分享：https://meeting.tencent.com/crm/Kwd6MXpqb4（日期：2025-04-14）
+周一分享：https://meeting.tencent.com/crm/Kwd6MXpqb4 （日期：2025-04-14）
 
 ### 第三周 域的概念
 ### 第四周 椭圆曲线相关 or 环的概念
